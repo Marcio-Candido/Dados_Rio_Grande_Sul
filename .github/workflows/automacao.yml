@@ -24,7 +24,7 @@ jobs:
           pip install numpy pandas requests
 
       - name: Executar script de coleta
-        run: python src/baixar_dados.py
+        run: python scr/baixar_dados.py
         shell: pwsh
 
       - name: Commitar e enviar dados gerados
