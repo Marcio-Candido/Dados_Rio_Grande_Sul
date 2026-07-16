@@ -1,0 +1,1 @@
+codigo,estacao,timestamp,bacia,latitude,longitude,regiao,altitude,chuva_1h_mm,chuva_6h_mm,chuva_12h_mm,chuva_24h_mm,chuva_48h_mm,rio_nivel_m,rio_tendencia
